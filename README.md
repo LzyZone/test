@@ -4,3 +4,4 @@ write 2
 dev write 4 my f1 write & simple
 wirte dev 5
 dev write 6
+dev write 7
